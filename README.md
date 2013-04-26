@@ -1,16 +1,16 @@
-## lispy-script-brunch
-Adds [LispyScript](http://lispyscript.org) support to
+## wisp-brunch
+Adds [Wisp](http://jeditoolkit.com/wisp/) support to
 [brunch](http://brunch.io).
 
 ## Usage
-Install the plugin via npm with `npm install --save lispy-script-brunch`.
+Install the plugin via npm with `npm install --save wisp-brunch`.
 
 Or, do manual install:
 
-* Add `"lispy-script-brunch": "x.y.z"` to `package.json` of your brunch app.
+* Add `"wisp-brunch": "x.y.z"` to `package.json` of your brunch app.
   Pick a plugin version that corresponds to your minor (y) brunch version.
 * If you want to use git version of plugin, add
-`"lispy-script-brunch": "git+ssh://git@github.com:sandy98/lispy-script-brunch.git"`.
+`"wisp-brunch": "git+ssh://git@github.com:sandy98/wisp-brunch.git"`.
 
 ## License
 

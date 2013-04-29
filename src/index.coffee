@@ -11,7 +11,7 @@ module.exports = class WispCompiler
 
   compile: (data, path, callback) ->
     try
-      return transpile data
+      return result = transpile data
     catch err
       error = err
     finally
